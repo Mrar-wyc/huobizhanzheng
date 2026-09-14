@@ -1,4 +1,4 @@
-# Currency War / 货币战争
+# Currency War / 货币战争 【本项目已重构，Canvas 新版见 CurrencyWar】
 
 > 基于 **Honkai: Star Rail（崩坏：星穹铁道）** 世界观的回合制策略 **自走棋 (Auto-Chess)** 前端游戏。
 >
